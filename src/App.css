@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: flex-start;
+}
+
+.container {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+  display: inline-block;
+}
